@@ -1,0 +1,22 @@
+{
+    "version": "0.10.4",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/janosmiko/lfk/releases/download/v0.10.4/lfk_0.10.4_windows_amd64.zip",
+            "bin": [
+                "lfk.exe"
+            ],
+            "hash": "fd3ba2194c9eb27168200e0392c02f7032e50088ae0a72085e1c575ba09619c0"
+        },
+        "arm64": {
+            "url": "https://github.com/janosmiko/lfk/releases/download/v0.10.4/lfk_0.10.4_windows_arm64.zip",
+            "bin": [
+                "lfk.exe"
+            ],
+            "hash": "f180c28545789e931435d2e542c37aaec0b19bddc566f93568990ae3b8edf38b"
+        }
+    },
+    "homepage": "https://github.com/janosmiko/lfk",
+    "license": "MIT",
+    "description": "Lightning Fast Kubernetes navigator - keyboard-focused TUI for managing K8s clusters"
+}
