@@ -6,14 +6,14 @@
             "bin": [
                 "lfk.exe"
             ],
-            "hash": "fd3ba2194c9eb27168200e0392c02f7032e50088ae0a72085e1c575ba09619c0"
+            "hash": "d2669ec304e45249532ea475a30e4f4dc0dac79136492ba327414f0e97418d7e"
         },
         "arm64": {
             "url": "https://github.com/janosmiko/lfk/releases/download/v0.10.4/lfk_0.10.4_windows_arm64.zip",
             "bin": [
                 "lfk.exe"
             ],
-            "hash": "f180c28545789e931435d2e542c37aaec0b19bddc566f93568990ae3b8edf38b"
+            "hash": "51eef963219fb208b85ae1a6438661677252b811e122fe316b072b4c12f79e82"
         }
     },
     "homepage": "https://github.com/janosmiko/lfk",
