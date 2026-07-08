@@ -1,19 +1,19 @@
 {
-    "version": "0.15.0",
+    "version": "0.15.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/janosmiko/lfk/releases/download/v0.15.0/lfk_0.15.0_windows_amd64.zip",
+            "url": "https://github.com/janosmiko/lfk/releases/download/v0.15.1/lfk_0.15.1_windows_amd64.zip",
             "bin": [
                 "lfk.exe"
             ],
-            "hash": "56edc81d7d08b2ce3aa21dea5007527fd258c1c66239ff1277d14294f74ee916"
+            "hash": "b47d2da214b5a1c8b21ef94470d0d86dbc6d2370f364fd933197e30c7440e4b2"
         },
         "arm64": {
-            "url": "https://github.com/janosmiko/lfk/releases/download/v0.15.0/lfk_0.15.0_windows_arm64.zip",
+            "url": "https://github.com/janosmiko/lfk/releases/download/v0.15.1/lfk_0.15.1_windows_arm64.zip",
             "bin": [
                 "lfk.exe"
             ],
-            "hash": "8fa705a7b90497901289af7770e164b01c056b05d1241636b5a768cfb2e21da8"
+            "hash": "7374740c125713cd02bb589c0b9eccd963d34360b311be9ddff631539da8f01c"
         }
     },
     "homepage": "https://github.com/janosmiko/lfk",
