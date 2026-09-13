@@ -1,18 +1,10 @@
-# scoop-bucket
+# lfk Scoop bucket (retired)
 
-Scoop bucket for [janosmiko](https://github.com/janosmiko)'s CLI tools.
-
-## Usage
+lfk has moved to the official **Scoop Extras** bucket. Install it with:
 
 ```powershell
-scoop bucket add janosmiko https://github.com/janosmiko/scoop-bucket
+scoop bucket add extras
 scoop install lfk
 ```
 
-## Available manifests
-
-Manifests live under `bucket/`. Each is auto-generated and updated by [GoReleaser](https://goreleaser.com) on each release of the corresponding tool's repo.
-
-| Tool | Source repo | Description |
-|---|---|---|
-| `lfk` | [janosmiko/lfk](https://github.com/janosmiko/lfk) | Lightning Fast Kubernetes navigator |
+This bucket is no longer updated. Its existing manifest is left in place so current installs keep working — please switch to the Extras bucket above for future updates.
